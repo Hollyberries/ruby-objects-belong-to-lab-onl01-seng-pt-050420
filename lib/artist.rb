@@ -11,7 +11,6 @@ end
 
 
 madonna = Artist.new
-artist.name = "Madonna"
 
 
 
