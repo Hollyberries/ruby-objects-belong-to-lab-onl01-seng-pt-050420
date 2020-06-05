@@ -9,3 +9,4 @@ class Song
 end
 
 lucky_star = Song.new("Lucky Star")
+lucky_star.artist = madonna
