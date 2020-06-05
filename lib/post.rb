@@ -9,3 +9,4 @@ class Post
   
 end
 
+phantoms = Post.new
