@@ -10,7 +10,7 @@ class Artist
 end
 
 
-madonna = Artist.new("Madonna")
+madonna = Artist.new
 artist.name = "Madonna"
 
 
