@@ -8,3 +8,4 @@ class Song
   
 end
 
+lucy_star.artist = "Madonna"
