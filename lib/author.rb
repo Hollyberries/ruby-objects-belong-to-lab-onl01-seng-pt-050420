@@ -8,3 +8,4 @@ class Author
   
 end
     
+dean_koontz = Author.new
