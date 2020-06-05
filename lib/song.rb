@@ -8,4 +8,4 @@ class Song
   
 end
 
-lucky_star.artist = "Madonna"
+lucky_star = Song.new("Lucky Star")
