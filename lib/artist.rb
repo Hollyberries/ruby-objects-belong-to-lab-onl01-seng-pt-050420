@@ -9,6 +9,7 @@ class Artist
 end
 
 
+madonna = Artist.new("Madonna")
 
 
 
